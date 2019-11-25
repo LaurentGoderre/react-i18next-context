@@ -1,0 +1,24 @@
+{
+  "name": "react-i18next-context",
+  "version": "0.1.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lint": "eslint ."
+  },
+  "author": "",
+  "license": "MIT",
+  "peerDependencies": {
+    "react": "^16.9.0"
+  },
+  "devDependencies": {
+    "eslint": "^6.6.0",
+    "eslint-plugin-react": "^7.16.0",
+    "react": "^16.9.0"
+  },
+  "dependencies": {
+    "i18next": "^19.0.1",
+    "react-i18next": "^11.2.1"
+  }
+}
